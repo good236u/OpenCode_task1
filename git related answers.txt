@@ -1,0 +1,20 @@
+1.Explain very briefly the difference between git and github.
+A1-Git uses other code editors and then we can add the file in git,there we can check the status f the file-modified,unmodified,staged,unstaged.Git allows multiple developers to work together when the repository is built in github.Github 
+   is a platform where we can make projects called repository and we use github for multiple users to track and work on our project.Git is where we can work on files and github is the platform by which we can allow multi[le users to work on our files.
+  
+
+2.Explain very briefly any 5 basic git commands.
+A2- a)git add- it moves changes from working area to staging area.This gives you the opportunity to prepare a sanpshot before committing it to official history.
+    b)git commit- it takes the staged snapshot and commits it to project history.Combined with git add, this defines the basic workflow for all Git users.
+    c)git status-  it displays the state of the working directory and the staged snapshot.It displays 4 status-stagged,unstagged,modified,unmodified.
+    d)git init-  it initialises a new Git repo.If you want to place a project under revision control,this is the first command you need to learn.
+    e)git config-  it is a convenience function that is used to set Git configuration values on a global or local project level.Executing this command will modify a configuration text file.
+
+
+3.How to make a Pull Request?
+A3-STEP1- Switch to the branch that you want to create a pull request for.
+   STEP2- Click Create Pull Request.GitHub Desktop will ope your default browser to take you to GitHub.
+   STEP3- On GitHub, confirm that the branch in the base: drop-down menu is the branch where you want to merge your changes.Confirm that the branch in the compare:drop-down menu is the topic branch where you made your changes.
+   STEP4- Type a title and description for your pull request.
+   STEP5- To create a pull request that is ready for review, click Create Pull Request. To create a draft pull request, use drop-down and select Create Draft Pull Request.
+   PULL REQUEST  let you tell others about changes you have pushed to a branch in a repo on GitHub.
